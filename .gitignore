@@ -1,0 +1,9 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore processed data (optional)
+data/processed_audio_files/
+
+# Ignore model checkpoints
+models/
